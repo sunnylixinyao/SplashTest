@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="20dp"/>
+    <!--填充-->
+    <solid android:color="@color/color_back_30"/>
+    <!--边线-->
+    <stroke android:width="1dp" android:color="@color/color_ffffff"/>
+    <!--内部字据上下左右设置-->
+    <padding android:top="5dp" android:bottom="5dp" android:left="25dp" android:right="25dp"/>
+</shape>
